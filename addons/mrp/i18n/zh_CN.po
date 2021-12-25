@@ -4572,7 +4572,7 @@ msgstr ""
 #: code:addons/mrp/models/stock_rule.py:0
 #, python-format
 msgid "This production order has been created from Replenishment Report."
-msgstr ""
+msgstr "此生产订单是根据补货报告创建的 。"
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_production.py:0

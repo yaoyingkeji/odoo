@@ -176,7 +176,7 @@ msgstr "购买信用"
 #: code:addons/sms/models/sms_api.py:0
 #, python-format
 msgid "Buy credits."
-msgstr ""
+msgstr "购买积分"
 
 #. module: sms
 #: model_terms:ir.ui.view,arch_db:sms.sms_cancel

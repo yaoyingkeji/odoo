@@ -82,7 +82,7 @@ msgid ""
 "I am a simple bot, but if that's a dog, he is the cutest 😊 "
 "<br/>Congratulations, you finished this tour. You can now <b>close this chat"
 " window</b>. Enjoy discovering Odoo."
-msgstr "亲, 我还是个宝宝 😊 <br/>谁还不是宝宝。 <b>既然如此那就让两个宝宝报团取暖</b>。 E相亲相爱吧。"
+msgstr "亲, 我还是个宝宝 😊 <br/>谁还不是宝宝。 <b>既然如此那就让两个宝宝报团取暖</b>。相亲相爱吧。"
 
 #. module: mail_bot
 #: code:addons/mail_bot/models/mail_bot.py:0
@@ -139,12 +139,12 @@ msgstr ""
 #. module: mail_bot
 #: model:ir.model.fields,field_description:mail_bot.field_res_users__odoobot_state
 msgid "OdooBot Status"
-msgstr "小秘书状态"
+msgstr "系统机器人 状态"
 
 #. module: mail_bot
 #: model:ir.model.fields,field_description:mail_bot.field_res_users__odoobot_failed
 msgid "Odoobot Failed"
-msgstr "Odoobot 挂了"
+msgstr "系统机器人 挂了"
 
 #. module: mail_bot
 #: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_attachement
@@ -219,6 +219,9 @@ msgid ""
 "documentation</a> or <a href=\"https://www.odoo.com/slides\" "
 "target=\"_blank\">our videos</a>."
 msgstr ""
+"不幸的是，我只是一个机器人😞我不明白！如果您在发现我们的产品时需要帮助，请查看<a "
+"href=\"https://www.odoo.com/documentation\" target=\"_blank\">我们的帮助文档</a>或<a "
+"href=\"https://www.odoo.com/slides\" target=\"_blank\">或视频教程</a>。"
 
 #. module: mail_bot
 #: model:ir.model,name:mail_bot.model_res_users

@@ -833,6 +833,8 @@ msgid ""
 "<i class=\"fa fa-info-circle\"/> Edit the content below this line to adapt "
 "the default <strong>Page not found</strong> page."
 msgstr ""
+"<i class=\"fa fa-info-circle\"/> 编辑此行下方的内容以调"
+"整默认的 <strong>页面未找到</strong> 404页面。"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.protected_403

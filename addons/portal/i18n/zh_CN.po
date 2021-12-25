@@ -408,7 +408,7 @@ msgstr "文档"
 #: code:addons/portal/static/src/js/portal_sidebar.js:0
 #, python-format
 msgid "Due in %1d days"
-msgstr ""
+msgstr "%1d 天后到期"
 
 #. module: portal
 #. openerp-web
@@ -617,7 +617,7 @@ msgstr ""
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_security
 msgid "Password:"
-msgstr ""
+msgstr "密码"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_details
@@ -1039,7 +1039,7 @@ msgstr "向导"
 #: code:addons/portal/static/src/xml/portal_chatter.xml:0
 #, python-format
 msgid "Write a message..."
-msgstr "写点什么呢。。。"
+msgstr "写点什么呢..."
 
 #. module: portal
 #: code:addons/portal/wizard/portal_share.py:0

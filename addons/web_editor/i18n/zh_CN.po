@@ -742,7 +742,7 @@ msgstr "丢弃"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippets
 msgid "Discard record"
-msgstr ""
+msgstr "丢弃记录"
 
 #. module: web_editor
 #: model:ir.model.fields,field_description:web_editor.field_web_editor_converter_test_sub__display_name
@@ -1824,7 +1824,7 @@ msgstr "不支持重置视图"
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options
 #, python-format
 msgid "Resize Auto"
-msgstr ""
+msgstr "自动调整大小"
 
 #. module: web_editor
 #. openerp-web
@@ -1896,7 +1896,7 @@ msgstr "SCSS 文件: %s"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_image_optimization_widgets
 msgid "Saturation"
-msgstr ""
+msgstr "饱和度"
 
 #. module: web_editor
 #. openerp-web
@@ -1912,7 +1912,7 @@ msgstr "保存"
 #: code:addons/web_editor/static/src/js/editor/snippets.editor.js:0
 #, python-format
 msgid "Save and Install"
-msgstr ""
+msgstr "保存并安装"
 
 #. module: web_editor
 #. openerp-web
@@ -1920,12 +1920,12 @@ msgstr ""
 #: code:addons/web_editor/static/src/js/editor/snippets.options.js:0
 #, python-format
 msgid "Save and Reload"
-msgstr ""
+msgstr "保存并重新加载"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippets
 msgid "Save record"
-msgstr ""
+msgstr "保存记录"
 
 #. module: web_editor
 #. openerp-web

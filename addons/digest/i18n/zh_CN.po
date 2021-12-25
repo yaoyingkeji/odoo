@@ -155,7 +155,7 @@ msgstr "摘要邮件"
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
 msgid "Digest Name"
-msgstr ""
+msgstr "摘要名称"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.portal_digest_unsubscribed
@@ -223,32 +223,32 @@ msgstr "已订阅"
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_tree
 msgid "KPI Digest"
-msgstr "KPI 摘要"
+msgstr "关键业绩指标（KPI） 摘要"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_tip_view_form
 msgid "KPI Digest Tip"
-msgstr "KPI 挖掘提示"
+msgstr "关键业绩指标（KPI） 挖掘提示"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_tip_view_tree
 msgid "KPI Digest Tips"
-msgstr "KPI 挖掘提示"
+msgstr "关键业绩指标（KPI） 挖掘提示"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
 msgid "KPIs"
-msgstr "KPIs"
+msgstr "关键业绩指标（KPIs）"
 
 #. module: digest
 #: model:ir.model.fields,field_description:digest.field_digest_digest__kpi_mail_message_total_value
 msgid "Kpi Mail Message Total Value"
-msgstr "Kpi 邮件信息总计"
+msgstr "关键业绩指标（Kpi） 邮件信息总计"
 
 #. module: digest
 #: model:ir.model.fields,field_description:digest.field_digest_digest__kpi_res_users_connected_value
 msgid "Kpi Res Users Connected Value"
-msgstr "Kpi Res 用户连接值"
+msgstr "关键业绩指标（Kpi） Res 用户连接值"
 
 #. module: digest
 #: code:addons/digest/models/digest.py:0
@@ -363,7 +363,7 @@ msgstr "使用<b>Odoo移动端</b>可以在任何位置开始你的工作。"
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
 msgid "Select your KPIs in the KPI's tab."
-msgstr "在KPI页卡中选择KPI。"
+msgstr "在 关键业绩指标（KPI） 的选项卡中选择您的 关键业绩指标（KPI）。"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form

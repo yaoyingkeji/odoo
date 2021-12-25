@@ -23,12 +23,12 @@ msgstr ""
 #. module: link_tracker
 #: model:ir.model.fields,field_description:link_tracker.field_link_tracker__absolute_url
 msgid "Absolute URL"
-msgstr ""
+msgstr "绝对网址"
 
 #. module: link_tracker
 #: model:ir.model.fields,field_description:link_tracker.field_link_tracker__label
 msgid "Button label"
-msgstr ""
+msgstr "按钮标签"
 
 #. module: link_tracker
 #: model:ir.model.fields,field_description:link_tracker.field_link_tracker__campaign_id
@@ -91,7 +91,7 @@ msgstr "创建时间"
 #: code:addons/link_tracker/models/link_tracker.py:0
 #, python-format
 msgid "Creating a Link Tracker without URL is not possible"
-msgstr ""
+msgstr "创建没有网址的链接跟踪器是不可能的"
 
 #. module: link_tracker
 #: model:ir.model.fields,field_description:link_tracker.field_link_tracker__display_name
@@ -296,12 +296,12 @@ msgstr "跟踪网址"
 msgid ""
 "Trackers are used to collect count stat about click on links and generate "
 "short URLs."
-msgstr "跟踪器用于收集有关点击链接的计数统计信息并生成短URL。"
+msgstr "跟踪器用于收集有关点击链接的计数统计信息并生成短网址。"
 
 #. module: link_tracker
 #: model_terms:ir.ui.view,arch_db:link_tracker.link_tracker_view_form
 msgid "URL"
-msgstr "URL"
+msgstr "网址"
 
 #. module: link_tracker
 #: model_terms:ir.ui.view,arch_db:link_tracker.link_tracker_view_form

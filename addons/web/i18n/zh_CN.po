@@ -8,7 +8,7 @@
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # v2exerer <9010446@qq.com>, 2021
 # 黎伟杰 <674416404@qq.com>, 2021
-# 深圳市耀影科技有限公司QQ1006399173 <web@yaoying.vip>, 2021
+# pgy866 <web@yaoying.vip>, 2021
 # 深圳市耀影科技有限公司_QQ1006399173, 2021
 # 
 msgid ""
@@ -554,7 +554,7 @@ msgstr "添加节点"
 #: code:addons/web/static/src/core/debug/profiling/profiling_item.xml:0
 #, python-format
 msgid "Add qweb directive context"
-msgstr ""
+msgstr "添加 qweb 指令上下文"
 
 #. module: web
 #. openerp-web
@@ -1117,7 +1117,7 @@ msgstr "公司"
 #: model:ir.model.fields,field_description:web.field_base_document_layout__company_details
 #: model_terms:ir.ui.view,arch_db:web.view_base_document_layout
 msgid "Company Details"
-msgstr ""
+msgstr "公司详情"
 
 #. module: web
 #: model:ir.model,name:web.model_base_document_layout
@@ -1754,7 +1754,7 @@ msgstr "编辑阶段"
 #: code:addons/web/static/src/views/debug_items.js:0
 #, python-format
 msgid "Edit View: "
-msgstr ""
+msgstr "编辑视图："
 
 #. module: web
 #. openerp-web
@@ -1784,7 +1784,7 @@ msgstr "Email"
 #: code:addons/web/static/src/core/debug/profiling/profiling_item.xml:0
 #, python-format
 msgid "Enable profiling"
-msgstr ""
+msgstr "启用性能分析"
 
 #. module: web
 #: code:addons/web/controllers/main.py:0
@@ -2728,7 +2728,7 @@ msgstr "无更新:"
 #: code:addons/web/static/src/webclient/actions/client_actions.js:0
 #, python-format
 msgid "No action with id '%s' could be found"
-msgstr ""
+msgstr "找不到 ID 为 '%s' 动作"
 
 #. module: web
 #. openerp-web
@@ -3427,7 +3427,7 @@ msgstr "紫色"
 #: code:addons/web/static/src/search/utils/dates.js:0
 #, python-format
 msgid "Q1"
-msgstr "一季度"
+msgstr "第一季度"
 
 #. module: web
 #. openerp-web
@@ -3435,7 +3435,7 @@ msgstr "一季度"
 #: code:addons/web/static/src/search/utils/dates.js:0
 #, python-format
 msgid "Q2"
-msgstr "Q2"
+msgstr "第二季度"
 
 #. module: web
 #. openerp-web
@@ -3443,7 +3443,7 @@ msgstr "Q2"
 #: code:addons/web/static/src/search/utils/dates.js:0
 #, python-format
 msgid "Q3"
-msgstr "Q3"
+msgstr "第三季度"
 
 #. module: web
 #. openerp-web
@@ -3451,7 +3451,7 @@ msgstr "Q3"
 #: code:addons/web/static/src/search/utils/dates.js:0
 #, python-format
 msgid "Q4"
-msgstr "Q4"
+msgstr "第四季度"
 
 #. module: web
 #: model:ir.model.fields.selection,name:web.selection__ir_actions_act_window_view__view_mode__qweb
@@ -3513,21 +3513,21 @@ msgstr "单选"
 #: code:addons/web/static/src/core/debug/profiling/profiling_item.xml:0
 #, python-format
 msgid "Record qweb"
-msgstr ""
+msgstr "记录qweb"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/core/debug/profiling/profiling_item.xml:0
 #, python-format
 msgid "Record sql"
-msgstr ""
+msgstr "记录sql"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/core/debug/profiling/profiling_item.xml:0
 #, python-format
 msgid "Record traces"
-msgstr ""
+msgstr "记录跟踪"
 
 #. module: web
 #. openerp-web
@@ -3642,7 +3642,7 @@ msgstr "报表布局"
 #. module: web
 #: model:ir.actions.report,name:web.action_report_layout_preview
 msgid "Report Layout Preview"
-msgstr ""
+msgstr "报表格式预览"
 
 #. module: web
 #. openerp-web
@@ -3662,7 +3662,7 @@ msgstr "重置至徽标颜色"
 #: code:addons/web/static/src/webclient/clickbot/clickbot_loader.js:0
 #, python-format
 msgid "Run Click Everywhere Test"
-msgstr "执行 Click Everywhere Test 这条命令"
+msgstr "执行自动点击测试（Click Everywhere Test）"
 
 #. module: web
 #. openerp-web
@@ -4061,7 +4061,7 @@ msgstr "堆叠"
 #: code:addons/web/static/src/legacy/js/fields/relational_fields.js:0
 #, python-format
 msgid "Start typing..."
-msgstr "开始输入"
+msgstr "开始输入..."
 
 #. module: web
 #. openerp-web

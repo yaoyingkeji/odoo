@@ -465,7 +465,7 @@ msgstr "传导取消"
 #: model:ir.model.fields,field_description:purchase_stock.field_res_partner__purchase_line_ids
 #: model:ir.model.fields,field_description:purchase_stock.field_res_users__purchase_line_ids
 msgid "Purchase Lines"
-msgstr ""
+msgstr "采购订单明细"
 
 #. module: purchase_stock
 #: model:ir.model,name:purchase_stock.model_purchase_order
@@ -560,7 +560,7 @@ msgstr "路线"
 msgid ""
 "Schedule automatically generated request for quotations earlier to avoid "
 "delays"
-msgstr ""
+msgstr "提前安排自动生成的报价请求，以避免延迟"
 
 #. module: purchase_stock
 #: model_terms:ir.ui.view,arch_db:purchase_stock.product_supplierinfo_replenishment_tree_view

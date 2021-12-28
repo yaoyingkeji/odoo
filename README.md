@@ -34,7 +34,7 @@ https://www.transifex.com/odoo/teams/
 
 ## 获取最新 .po 文件，更新后发布至 transifex
 ### 1. deepin V20.3 安装 tx 客户端
-#### 1.安装pyenv Python虚拟环境
+#### 安装pyenv Python虚拟环境
 ```
 #安装依赖
 sudo apt-get update; sudo apt-get install make build-essential libssl-dev zlib1g-dev \
@@ -89,8 +89,7 @@ tx --version
 #激活tx虚拟环境。每次需要在哪个目录使用tx时候，需要先激活tx虚拟环境
 pyenv activate tx
 ```
-
-2. 获取最新 .po 文件
+#### 获取最新 .po 文件
 
 ```
 #取最新的 po，新建一个文件夹，初始化tx
